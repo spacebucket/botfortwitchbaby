@@ -1,0 +1,10 @@
+user=Glodbot
+oauth=oauth:u6q2rgpb24g70h33d44isgrbws3blr
+apioauth=
+clientid=
+channel=xxmcgoldengamingxx
+owner=iJubbo
+baseport=25000
+hostname=
+port=0
+msglimit30=0.0
